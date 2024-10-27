@@ -2,6 +2,9 @@
 
 This repository contains a set of independant react projects that provide code samples to demonstrate how to use certain react hooks.
 
+## How to use the useContext hook to share state between components
+
+To see a simple example of how to use useContext in react, run the react app in the context-sample folder.
 
 # More great tutorials and code samples
 
