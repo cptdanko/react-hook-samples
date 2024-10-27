@@ -6,7 +6,15 @@ This repository contains a set of independant react projects that provide code s
 # More great tutorials and code samples
 
 I will be writing a detailed tutorial on how to work with this repo on my blog. Until then refer to [my blog] for other
-tutorials and "how-to" articles with detailed code samples.
+tutorials and "how-to" articles with detailed code samples. Listed below is a sample of a few of my tutorials,
+
+- **https://mydaytodo.com/build-blog-engine-with-react-spring-boot-1/**
+- **https://mydaytodo.com/build-blog-engine-with-react-spring-boot-2/**
+- **https://mydaytodo.com/build-blog-engine-with-react-spring-boot-3/**
+- **[Call Rest API with Spring WebClient]**
+- **[Jokes API with Spring RestTemplate]** 
+- **[AWS DynamoDB how to] (NodeJS/Express & Typescript)**
+- **[AWS DynamoDB query by non-primary] (NodeJS/Express & Typescript)** 
 
 If you like what I am doing, you can [buy me a coffee].
 
